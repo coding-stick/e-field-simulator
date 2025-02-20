@@ -32,7 +32,7 @@ def charges_init(d):
 charges_init(20)
 
 
-obj_list.append(Obj(pygame.Vector2(WIDTH/2,HEIGHT/2), 50, "red", 2)) # for some reason this is blue, and the radius is smaller?
+obj_list.append(Obj(pygame.Vector2(WIDTH/2,HEIGHT/2), 50, "red", 2))
 obj_list.append(Obj(pygame.Vector2(0,0), 50, "blue", -2))
 
 
